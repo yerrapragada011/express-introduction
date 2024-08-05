@@ -1,7 +1,7 @@
 // route file - routes/userRoutes.js
 
 const express = require('express')
-const userController = require('<path-to-user-controller>')
+const userController = require('../controllers/userController')
 
 const router = express.Router()
 
